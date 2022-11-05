@@ -1,4 +1,5 @@
-Analiza i bazy danych - Laboratorium 5 - TIER protocol i Tidy data.
+###Analiza i bazy danych
+**Laboratorium 5 - TIER protocol i Tidy data**
 
 Najpierw wybrałem swój zbiór danych do analizy:
 - Numer swojego datasetu to 4 - o nazwie "drinks.csv". 
