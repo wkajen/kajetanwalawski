@@ -1,6 +1,6 @@
 ###Data Appendix - "drinks_no_zeros.csv"
 
-Wszystkie pliki z folderu /AnalysisData/ są opisane tutaj.
+Wszystkie pliki z folderu **/AnalysisData/** są opisane tutaj.
 
 
 Plik "drinks_no_zeros.csv" zawiera zmodyfikowane dane. Z oryginalnego pliku "drinks.csv" usunięto wiersze z krajami, w których nie spożyto alkoholu ("total_litres_of_pure_alcohol" = 0). 
